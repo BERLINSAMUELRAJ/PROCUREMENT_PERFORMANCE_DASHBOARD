@@ -101,29 +101,6 @@ This dashboard empowers procurement teams and stakeholders with real-time insigh
 - NGOs or donor-funded projects requiring compliance tracking
 - Educational or healthcare institutions with categorized spending
 
----
-
-## 🌱 Future Enhancements
-
-- ERP system integration for live procurement data
-- Supplier performance scoring matrix
-- Automated alerts for expiring or overdue contracts
-- Embedded Power BI for internal portals
-
----
-
-## 📂 Sample Visuals (Optional Screenshots)
-
-> Add screenshots of key visuals like contract summary, supplier chart, and expiring contracts table here.
-
----
-
-## 🧾 License
-
-> Add your license info here (e.g., MIT, GPL, etc.)
-
----
-
 ## 📧 Contact
 
 For suggestions, issues, or contributions, please contact: [Your Name or GitHub Profile]
