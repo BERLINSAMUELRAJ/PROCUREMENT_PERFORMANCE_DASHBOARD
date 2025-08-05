@@ -69,7 +69,9 @@ This dashboard empowers procurement teams and stakeholders with real-time insigh
 - **Custom tooltips** for enhanced user context
 - **Responsive layout** for web and desktop Power BI environments
 
----
+## SNAPSHOT OF THE DASHBOARD
+
+![](https://github.com/BERLINSAMUELRAJ/SPOTIFY-MUSIC-ANALYSIS/blob/main/SPOTIFY%20DASHBAORD%20SCREENSHOT.png)
 
 ## 🛠 Technical Architecture
 
