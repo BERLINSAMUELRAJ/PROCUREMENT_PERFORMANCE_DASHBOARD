@@ -71,7 +71,7 @@ This dashboard empowers procurement teams and stakeholders with real-time insigh
 
 ## SNAPSHOT OF THE DASHBOARD
 
-![](https://github.com/BERLINSAMUELRAJ/SPOTIFY-MUSIC-ANALYSIS/blob/main/SPOTIFY%20DASHBAORD%20SCREENSHOT.png)
+![](https://github.com/BERLINSAMUELRAJ/PROCUREMENT_PERFORMANCE_DASHBOARD/blob/main/PROCUREMENT%20DASHBOARD.png)
 
 ## 🛠 Technical Architecture
 
