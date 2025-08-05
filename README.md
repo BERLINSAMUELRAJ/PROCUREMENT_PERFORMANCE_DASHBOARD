@@ -1,6 +1,6 @@
 # 🚀 Procurement Performance Dashboard 
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/BERLINSAMUELRAJ/PROCUREMENT_PERFORMANCE_DASHBOARD/blob/main/1681833361480.jpeg)
 ## 📌 Overview
 
 The **Procurement Performance Dashboard** is a dynamic analytics solution built using **Microsoft Power BI**. It provides comprehensive visibility into an organization’s procurement function — covering suppliers, contracts, funding, categories, and organizational units.
