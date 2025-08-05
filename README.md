@@ -101,7 +101,3 @@ This dashboard empowers procurement teams and stakeholders with real-time insigh
 - NGOs or donor-funded projects requiring compliance tracking
 - Educational or healthcare institutions with categorized spending
 
-## 📧 Contact
-
-For suggestions, issues, or contributions, please contact: [Your Name or GitHub Profile]
-
